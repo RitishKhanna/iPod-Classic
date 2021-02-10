@@ -1,0 +1,11 @@
+/* container */
+.settings{
+    width: 270px;
+    height: 200px;
+    background-color: #E3F2FD;
+}
+
+/* list element */
+li{
+    padding-left: 5px;
+}

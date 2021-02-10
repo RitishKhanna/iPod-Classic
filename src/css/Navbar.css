@@ -1,0 +1,55 @@
+/* whole navigation bar */
+.bar{
+    margin-top: -1px;
+    display: flex;
+    width: 270px;
+    height: 20px;
+    min-height: 20px;
+    background-color: #E3F2FD;
+    border-bottom: 1px solid black;
+}
+
+/* ipod logo */
+.heading{
+    margin: 1px 5px;
+    padding: 0px;
+}
+
+/* time */
+.time{
+   margin: 0px;
+   padding: 0px; 
+   margin: auto;
+}
+
+/* battery icon */
+.battery{
+    width: 22px;
+    height: 20px;
+}
+
+/* container for battery and play pause icon */
+.right-container-nav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+}
+
+/* play pause icon in right */
+.play-pause-nav{
+    font-size: 15px;
+    margin: 0px;
+    margin-right: 8px;
+    padding: 0px;
+    text-align: center;
+    color: #039BE5;
+}
+
+/* notification */
+.notification{
+    color: #039BE5;
+    margin: 1px;
+    margin:auto;
+    padding: 0px;
+    text-align: center;
+}
